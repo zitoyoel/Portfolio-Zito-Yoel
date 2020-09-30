@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*
+font-family: 'Karla', sans-serif;
+font-family: 'Rubik', sans-serif;
+*/
+
+html {
+    font-size: 62.5%;
+}
+
+#perfil {
+    border-radius: 50%;
+    margin: 2rem;
+    width: 30rem;
+    -webkit-box-shadow: 9px 10px 25px -15px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 10px 25px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: 9px 10px 25px -15px rgba(0, 0, 0, 0.75);
+}
+
+.display-1 {
+    font-size: 16rem;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+}
+
+.nav-pills .nav-link.active {
+    background-color: #F8F9FA;
+    color: black;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.8rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+.sobre-mi {
+    font-family: 'Karla', sans-serif;
+    font-size: 1.2rem;
+}
+
+#cursos {
+    border: 1px solid #F8F9FA;
+    border-radius: 15px;
+    background-color: #F8F9FA;
+    margin-top: 2rem;
+}
+
+h3.card-header {
+    font-size: 1.4rem;
+}
+
+p.card-title {
+    font-family: 'Rubik', sans-serif;
+    font-size: 1rem;
+}
+
+a.btn.btn-primary {
+    font-family: 'Karla', sans-serif;
+}
+
+#img-google {
+    width: 20rem;
+    border-radius: 10px;
+}
+
+.titulo-proyecto {
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.4rem;
+}
+
+.descripcion-proyecto {
+    font-family: 'Karla', sans-serif;
+    font-size: 1.2rem;
+}
+
+.media {
+    border: 3px solid #F8F9FA;
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+#img-redes {
+    height: 4rem;
+    margin: 1rem;
+}
